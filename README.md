@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PawelFabrycki
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python, JavaScript and Linux commands
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I'm collabolator in CrapStorm Inc
 - 📫 How to reach me (for now it's impossible)
 - 😄 Pronouns: he/his
 - ⚡ Fun fact: My mental health is damaged by my friends because they don't know the basics of git
